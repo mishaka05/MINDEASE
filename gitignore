@@ -1,0 +1,28 @@
+# Environment variables — NEVER commit API keys
+.env
+.env.local
+.env.production
+.env.*
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if you add a proxy backend)
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
