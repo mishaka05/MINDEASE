@@ -175,3 +175,7 @@ Parse response
 ---
 
 *Built with care for student mental health 🐻*
+## Documentation
+
+Product Requirements Document available at:
+docs/MindEase_PRD_v2.0.pdf
