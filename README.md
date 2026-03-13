@@ -170,7 +170,7 @@ Parse response
 
 ## 👩‍💻 Presented By
 
-**M NANTHINI** · XYZ College · Department of Computer Science & Engineering · 2026
+**Anuska Sarkar** · IITM · Data Science and Applications · 2026
 
 ---
 
